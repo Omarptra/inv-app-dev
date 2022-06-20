@@ -7,6 +7,9 @@
     "build": "vue-cli-service build",
     "dev": "node app/index.js"
   },
+  "engines": {
+    "node": ">=16.9.0"
+  },
   "dependencies": {
     "@mdi/font": "5.9.55",
     "apexcharts": "^3.35.0",
